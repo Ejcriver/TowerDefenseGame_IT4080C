@@ -1,0 +1,32 @@
+# Unreal Engine files
+Saved/
+Intermediate/
+DerivedDataCache/
+.vs/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Binary Files
+Binaries/
+Build/
+
+# Configuration files that may contain sensitive information
+*.ini
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Content directory exceptions
+Content/StarterContent/
